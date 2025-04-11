@@ -90,7 +90,7 @@ header{
 .explore-background{
     display: flex;
     justify-content: center;
-    align-items: center;
+
     background-color: #F4F6F5;
     border-radius: 59px;
     padding: 68px 81px 0px 119px;
