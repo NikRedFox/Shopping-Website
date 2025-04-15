@@ -81,6 +81,7 @@ header{
 
 .explore-highlight-white{
     background-color: white;
+    /* transform: skew(45deg); */
 }
 
 .explore-highlight-yellow{
@@ -103,3 +104,13 @@ header{
     gap: 30px; 
 }
 /* FIM MAIN */
+
+/* DEALERS */
+.dealers-container{
+    background-color: #EBD96B;
+    display: flex;
+    justify-content: space-around;
+    padding: 61px 171px;
+}
+
+/* FIM DEALERS */
