@@ -14,8 +14,8 @@ body{
 header{
     display: flex;
     justify-content: space-around;
-    gap: 642px; 
-    margin-top: 46px;
+    gap: 342px; 
+    margin-top: 26px;
     
 }
 
@@ -36,14 +36,14 @@ header{
 .header-item{
     text-decoration: none;
     color: #242323;
-    font-size: 22px;
+    font-size: 16px;
 }
 
 .header-button{
     width: 134px;
     height: 62px;
     border-radius: 7px;
-    font-size: 24px;
+    font-size: 18px;
     background-color: black;
     color: white;
     border: none;    
@@ -60,14 +60,14 @@ header{
 }
 
 .explore-container h1{
-    font-size: 94px;
+    font-size: 74px;
     width: 474px;
     text-transform: uppercase;
     line-height: 1.2;
 }
 
 .explore-container p{
-    font-size: 32px;
+    font-size: 22px;
 }
 
 .explore-container button{
@@ -75,7 +75,7 @@ header{
     color: white;
     width: 221px;
     height: 82px;
-    font-size: 30px;
+    font-size: 26px;
     border-radius: 10px;
 }
 
@@ -91,7 +91,6 @@ header{
 .explore-background{
     display: flex;
     justify-content: center;
-
     background-color: #F4F6F5;
     border-radius: 59px;
     padding: 68px 81px 0px 119px;
@@ -107,6 +106,7 @@ header{
 
 /* DEALERS */
 .dealers-container{
+    margin-top: 43px;
     background-color: #EBD96B;
     display: flex;
     justify-content: space-around;
