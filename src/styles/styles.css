@@ -15,8 +15,7 @@ header{
     display: flex;
     justify-content: space-around;
     gap: 342px; 
-    margin-top: 26px;
-    
+    margin-top: 26px;    
 }
 
 .header-links-container{
@@ -114,4 +113,40 @@ header{
 }
 /* FIM DEALERS */
 
-/*  */
+/* NEW ARRIVALS */
+
+.new-arrivals-container{    
+    display: flex;
+    justify-content: center;
+}
+
+.new-arrivals-inner-container{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    margin-top: 69px;
+}
+
+.arrivals-title-container{
+    display: flex;
+    justify-content: start  ;
+}
+.arrivals-title-container h2{
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: bolder;    
+}
+
+.arrivals-img-container{
+    display: flex;
+    gap: 90px;
+}
+
+.arrivals-text-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/* FIM NEW ARRIVALS */
