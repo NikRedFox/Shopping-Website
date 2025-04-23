@@ -149,5 +149,12 @@ header{
 /* FIM NEW ARRIVALS */
 
 /* PAYDAY */
+.payday-container{
+    display: flex; 
+    background-color: #E0C340;   
+}
 
+.payday-text-container{
+    
+}
 /* FIM PAYDAY */
